@@ -1,0 +1,2 @@
+recursive-include language_detection/frontend/build *
+include README.md
